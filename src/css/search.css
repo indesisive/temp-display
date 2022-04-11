@@ -1,0 +1,80 @@
+/* CSS for the page showing all/relating products */
+
+* {
+    overflow-x: hidden;
+}
+
+body {
+    background-color: rgb(50, 50, 50);
+}
+
+/* Text that will show what the user has searched */
+.resultText {
+    margin-left: 15px;
+    margin-top: 10px;
+    color: white;
+    }
+
+
+    .resultText span {
+        color: rgb(255, 255, 0);
+    }
+
+    .resultText mini {
+        font-size: 50%;
+}
+
+/* CSS for the products being displayed */
+
+.products {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 25px;
+    }
+
+    .product {
+        width: 400px;
+        height: auto;
+        background-color: rgb(26, 26, 26);
+        border-right: 2px solid black;
+        border-bottom: 2px solid black;
+        border-left: none;
+        border-top: none;
+        border-radius: 6px;
+        text-align: center;
+        vertical-align: middle;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 5px;
+        overflow: hidden;
+        color: white
+    }
+
+    .pName {
+        font-size: 25px;
+    }
+
+    .pImg {
+        width: 35%;
+        border-radius: 4px;
+        border: 2px dotted black;
+    }
+
+    .pPrice {
+        position: relative;
+        left: 0;
+    }
+
+    .pViewMore {
+        text-decoration: none;
+        background-color: yellow;
+        border-radius: 4px;
+        color: black;
+        padding: 2px;
+}
+
+/* No '@media' needed for this page */

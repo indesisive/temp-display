@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> - Search - Fitness</title>
+
+    <!-- CSS Imports -->
+    <link rel="stylesheet" href="src/css/index.css">
+    <link rel="stylesheet" href="src/css/search.css">
+
+        <!-- FontAwesome, a library for icons -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+    <!-- Library/Script Imports -->
+
+        <!-- Jquery (Mobile) -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.1/jquery.mobile.min.js" integrity="sha512-wSacGPS/KRyVB67O4xD+Eh1OX4/dq4juZj9DKTokRt81BzLbfsSMtNgR9Pu8FLr4kLbk5oNr9Hq+5PeWLCX8mA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav>
+        <div class="menuIcon"><span class="fa-solid fa-bars"></span></div>
+        
+        <div class="logo">Fitness</div>
+
+        <div class="navLinks">
+            <li><a href="/">Home</a></li>
+            <li><a href="search.html">Products</a></li>
+        </div>
+
+        <div class="searchIcon"><span class="fa-solid fa-search"></span></div>
+        <div class="cancelIcon"><span class="fa-solid fa-times"></span></div>
+
+        <!-- Search Bar -->
+        <form action="search.html">
+            <input type="search" class="searchBar" name="search" placeholder="Search Products" required>
+            <button type="submit" class="searchBtn" value="Submit"><span class="fa-solid fa-search"></span></button>
+        </form>
+    </nav>
+
+    <h1 class="resultText">Searches for ________:</h1>
+
+    <!-- Main Elements -->
+    <div class="main">
+        <div class="products">
+            <!-- <div class="product">                                  This is the template for the product item
+                <h1 class="pName">placeHolder</h1>
+                <img src="/src/img/products/place.holder" class="pImg">
+                <h3 class="pPrice">€€€€.€€</h3>
+                <a href="#" class="pViewMore">View Details</a>
+            </div> -->
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="src/js/search/searchManager.js"></script>
+    <script src="src/js/index/navbar.js"></script>
+
+</body>
+</html>

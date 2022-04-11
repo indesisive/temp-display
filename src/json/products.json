@@ -1,0 +1,317 @@
+{
+    "products": {
+        "proform-525i-treadmill": {
+            "product": {
+                "name": "Proform 525i treadmill",
+                "min": "proform-525i-treadmill",
+                "price": "€899.00",
+                "desc": "The ProForm 525i Treadmill has 20 preset workout apps, you can mix it up every time you set foot on this machine.  Features include adjustable ProShox™ Cushioning technology and a convenient space saver design that allows you to fold it away after your workout is complete.",
+                "image": "/src/img/products/treadmill.png",
+                "details": [
+                    "Home treadmill", 
+                    "Product size 183cm x 83 cm x 160cm", 
+                    "Folding - Space saver design with easy lift asist",
+                    "Integrated tablet holder",
+                    "5” backlit display",
+                    "Speed 0 - 18km",
+                    "Incline/Decline 0 - 10% Digital quick Incline",
+                    "20 Preset workout apps",
+                    "User weight approx 125kg"
+                ]
+            },
+            "keywords": ["all","*","levels apps","treadmill","home","incline","proform 525i","display","running","move moving","folding","machine","black"],
+            "review": {
+                "user": "Trusted Customer",
+                "title": "'prompt communications'",
+                "main": "delivery times, easy return policy,"
+            }
+        },
+
+        "rotocyle-fusion-spin-bike-black": {
+            "product": {
+                "name": "Rotocycle Fusion Spin Bike Black",
+                "min": "rotocyle-fusion-spin-bike-black",
+                "price": "€499.00",
+                "desc": "The ultimate spin bike for beginners and athletes alike. The Rotocycle Fusion Spin Bike is silent, smooth and maintenance-free. Spend more time working out in comfort with quick and easy seat adjustments. The perfect spin bike for your home workouts with the added comfort of a covered flywheel. Fitted with a 6.5kg flywheel and paired with magnetic resistance for a long lifetime with silent and smooth pedalling.",
+                "image": "/src/img/products/bike.png",
+                "details": [
+                    "Spin bike", 
+                    "Magnetic Adjustable Resistance", 
+                    "Flywheel 6.5kg (Covered)",
+                    "Heavy-Duty Robust Frame",
+                    "Adjustable seat post and handlebars",
+                    "Transportation wheels, adjustable saddle- forward/back",
+                    "Maximum User Weight 120kg",
+                    "Product Size 110*57*108cm",
+                    "Gross Weight 41.70kgs"
+                ]
+            },
+            "keywords": ["all","*","bike","black","lower body","cardio","cycle cycling","spin","move moving","rotocycle","fusion","seat saddle handlebars","frame","wheels","flywheel magnetic"],
+            "review": {
+                "user": "Trusted Customer",
+                "title": "' Very easy website to use with quick delivery on my order. '",
+                "main": "Would definitely recommend using this website- quick delivery also. Mayo training T-shirt’s a perfect fit for my 3 and 4 year old. Both wear 5-6."
+            }
+        },
+
+        "nordictrack-rw600-rower-black-silver": {
+            "product": {
+                "name": "Nordictrack RW600 Rower Black/Silver",
+                "min": "nordictrack-rw600-rower-black-silver",
+                "price": "€1099.00",
+                "desc": "Row smarter with the NordicTrack RW600 Rowing Machine. Enjoy two forms of resistance – digital (managed by the elite iFit trainers) and manual – provide 26 challenging levels to work through as you progress. With studio rowing sessions to global rowing workouts, complete with off-machine options like yoga and mindfulness and strength training, iFit provides all the training variety you need.",
+                "image": "/src/img/products/row.png",
+                "details": [
+                    "Home Gym Rowing Machine", 
+                    "10” Smart HD touchscreen", 
+                    "Silent Magnetic Resistance; Digital and Manual with 26 levels",
+                    "Inertia-enhanced",
+                    "Soft Touch handles minimises strain on arms, wrists and hands",
+                    "Seat is oversized and moulded",
+                    "Pedals are oversized and pivoting with quick-release foot straps.",
+                    "Bluetooth connection to sync your favourite headphones to the machine",
+                    "Fold up and store vertically",
+                    "front mounted transport wheels; Dual 2” speakers; adjustable console angle",
+                    "114kg"
+                ]
+            },
+            "keywords": ["all","*","norditrack","lower body","cardio","rw600","rowing","rowing machine","black silver","home","display","magnetic","machine","levels apps","pedal seat","bluetooth","folding foldable"],
+            "review": {
+                "user": "Guest",
+                "title": "",
+                "main": "Very helpful"
+            }
+        },
+
+        "proform-carbon-adjustable-bench-black": {
+            "product": {
+                "name": "Proform Carbon Adjustable Bench Black",
+                "min": "proform-carbon-adjustable-bench-black",
+                "price": "€299.00",
+                "desc": "Great for building muscle, toning up and getting stronger, the ProForm Carbon adjustable utility weight bench is a solid and stable piece of equipment with a heavy-duty steel frame. It offers an easily adjustable 10-position backrest with 2 decline, flat, upright (top position 90 degrees) and 6 incline positions. For a wider scope of exercise variation, this multi-functional bench features an adjustable 6-position seat, and it has a 45mm (1.7”) thick padded backrest for added comfort and support while exercising.",
+                "image": "/src/img/products/bench.png",
+                "details": [
+                    "Multi functional utility bench", 
+                    "Easily adjustable 10-position backrest", 
+                    "2 decline, flat, upright (top position 90 degrees) and 6 incline positions",
+                    "Compact, ergonomic design",
+                    "Heavy-duty construction",
+                    "Great for developing strength and increasing muscle mass",
+                    "Can be used for exercises such as bicep curls, triceps bench dips, chest flys, shoulder press",
+                    "Easy to assemble",
+                    "Transport wheels and handle for easy transportation",
+                    "Backrest Dimensions: Length=88cm (34.6”), Width=28cm (11”)",
+                    "Max. Lift Load Capacity: 140kg (309lbs)",
+                    "Maximum Load (User and Weights): 276kg (608lbs)",
+                    "Dimensions: Length=135cm (53”), Width=69cm (27”), Height=122cm (48”)"
+                ]
+            },
+            "keywords": ["all","*","proform carbon","upper body","lower body","cardio","outdoor","bench","black","foldable folding adjustable","ergonomic compact","assemble wheels","portable","biceps triceps shoulders"],
+            "review": {
+                "user": "Trusted Customer",
+                "title": "'Excellent service and return service'",
+                "main": "Excellent service. Very prompt and items were true to size/ description"
+            }
+        },
+
+        "20kg-rubber-hex-dumbell-pair": {
+            "product": {
+                "name": "20kg Rubber Hex Dumbbell pair",
+                "min": "20kg-rubber-hex-dumbell-pair",
+                "price": "€99.00",
+                "desc": "Hex Dumbbells are the perfect addition to any home or commercial gym. The hexagonal shape not only prevents the weights from rolling away between sets but offers assistance when performing body-weight exercises, like push-ups.",
+                "image": "/src/img/products/dumbell.png",
+                "details": [
+                    "2 x 10Kg Hex Dumbbells", 
+                    "Handle features an ergonomic curve", 
+                    "Knurled surface for added comfort and grip when lifting",
+                    "Quality, odorless rubber that will not fade or crack",
+                    "Weight Tolerance: +/- 3%",
+                    "Colour: Black"
+                ]
+            },
+            "keywords": ["all","*","portable","rubber","upper body","pair dual","hexagonal","20kg","handle","black","dumbell","portable"],
+            "review": {
+                "user": "David Dunbar (verified owner)",
+                "title": "",
+                "main": "Reasonably priced and excellent quality. These are well made and I know that I will get many years use from these. Another terrific product from NC Fitness"
+            }
+        },
+
+        "cast-iron-kettlebell-10kg": {
+            "product": {
+                "name": "Cast Iron Kettlebell 10kg",
+                "min": "cast-iron-kettlebell-10kg",
+                "price": "€45.00",
+                "desc": "Cast iron kettlebells are a great addition to any home gym. The kettlebell center of gravity lies below the grip and helps to replicate lifts you would commonly do in sport and daily life. This provides functional fitness and strength often missed when training exclusively with dumbbells.",
+                "image": "/src/img/products/kettlebell.png",
+                "details": [
+                    "10kg Kettlebell", 
+                    "Thick handle offers the perfect solution for improving forearm and grip strength", 
+                    "Made from solid cast iron",
+                    "Durable construction",
+                    "Perfect for outdoor use",
+                    "Colour: Black"
+                ]
+            },
+            "keywords": ["all","*","iron","10kg","black","upper body","outdoor","thick handle","kettlebell","red","portable"],
+            "review": {
+                "user": "Seán Pól Ó Nia",
+                "title": "",
+                "main": "Super quality kettlebell - fast delivery"
+            }
+        },
+
+        "pro-bearing-olympic-bar-450kg": {
+            "product": {
+                "name": "Pro Bearing Olympic Bar 450Kg",
+                "min": "pro-bearing-olympic-bar-450kg",
+                "price": "€112.50",
+                "desc": "The Endura Fitness Pro Olympic Bar is rated to a massive 450 KG, manufactured with high quality chrome plated heat treated steel. The sleeves are mounted to the bar with premium needle bearings, to reduce friction and allow weight plates to self balance. This bar is designed to cope with the heaviest strength training and Crossfit workouts.",
+                "image": "/src/img/products/barbell.png",
+                "details": [
+                    "Olympic Bar", 
+                    "Great low cost, high quality bar for strength workouts", 
+                    "Sleeves are machined to a precise 1.975” diameter to accommodate 2” Olympic Plates",
+                    "6ft 6″ long, 30mm hand grip diameter",
+                    "15 KG Weight - Rated to 450kg",
+                    "Highest quality needle bearings",
+                    "High quality steel shaft with chrome finish"
+                ]
+            },
+            "keywords": ["all","*","olympic bar","upper body","450kg 15kg","pro","barbell","weight lifting","silver"],
+            "review": {
+                "user": "Joe Mac",
+                "title": "",
+                "main": "Great product and speedy delivery."
+            }
+        },
+
+        "rubber-bumper-plate-20kg": {
+            "product": {
+                "name": "Rubber Bumper Plate 20Kg",
+                "min": "rubber-bumper-plate-20kg",
+                "price": "€95.00",
+                "desc": "These bumper plates have been designed specifically to reduce plate bouncing and barbell recoil during high impact exercises such as overhead presses, deadlifts and squats.",
+                "image": "/src/img/products/bumperPlates.png",
+                "details": [
+                    "20kg Bumper Plate", 
+                    "Highly durable, long-lasting, and performance-oriented bumper plates", 
+                    "Reinforced center sleeve provides protection from repeated impact",
+                    "Noise reduction and bounce reduction technology",
+                    "Suitable For Home Use",
+                    "Colour: Blue"
+                ]
+            },
+            "keywords": ["all","*","bumper plate","upper body","rubber","blue","20kg","portable","home use","less recoil"],
+            "review": {
+                "user": "Coop",
+                "title": "",
+                "main": "Excellent durometer rating"
+            }
+        },
+
+        "proform-power-rack-black": {
+            "product": {
+                "name": "Proform power rack black",
+                "min": "proform-power-rack-black",
+                "price": "€499.00",
+                "desc": "The ProForm Power Rack has been referred to as a beast and we can see why! This power rack is extremely versatile. It allows athletes to perform multiple workouts, all with one great rack! In addition, it also comes with adjustable safety bars and two adjustable bar catches. It has a chin-up bar also that has both narrow and wide grips.",
+                "image": "/src/img/products/squatRack.png",
+                "details": [
+                    "Power Rack", 
+                    "Multi-Functional Half Rack Design", 
+                    "Adjustable Bar Holds",
+                    "Adjustable Spotter Arms",
+                    "Multi-Grip Pull-Up Station",
+                    "Integrated Weight Storage (6 Horizontal Posts)",
+                    "40 KG Lift Load Capacity",
+                    "136 KG User Weight Capacity",
+                    "Product Dimension: 217 X 175 X 135 CM",
+                    "Colour: Black"
+                ]
+            },
+            "keywords": ["all","*","proform","upper body","power rack","black","adjustable","40kg capacity","bar","spotter","station","pull up"],
+            "review": {
+                "user": "",
+                "title": "",
+                "main": "<i>No reviews yet</i>"
+            }
+        },
+
+        "body-sculpture-body-gym": {
+            "product": {
+                "name": "Body Sculpture Body Gym",
+                "min": "body-sculpture-body-gym",
+                "price": "€30",
+                "desc": "Give your upper body an intensive work out in the privacy of your own home with this Body Sculpture Body Gym.",
+                "image": "/src/img/products/pullUpBar.png",
+                "details": [
+                    "Multi-function exercise bar you can use to do pull-ups, chin-ups, push-ups, sit-ups, arm and shoulder exercises", 
+                    "Everything you need to build a powerful upper body", 
+                    "Use your body's own resistance to deliver powerful results fast",
+                    "Strengthen and tone biceps, chest, back, shoulders and abs",
+                    "Instantly attaches to, or removes from your door frame, with no drilling or tools",
+                    "The heavy duty steel construction supports up to 300lbs"
+                ]
+            },
+            "keywords": ["all","*","body scupture","upper body","gym","pull up","bar","steel","adjustable","portable","hang door","biceps triceps shoulders chest back abs","supports 300lbs","black"],
+            "review": {
+                "user": "",
+                "title": "",
+                "main": "<i>No reviews yet</i>"
+            }
+        },
+
+        "skiing-trainer-stand": {
+            "product": {
+                "name": "Skiing Trainer & Stand",
+                "min": "skiing-trainer-stand",
+                "price": "€699.00",
+                "desc": "Give your body a full workout that engages your legs, upper body, arms and core. Helping you develop strength and endurance. The Ski machine gives a smooth, responsive performance, is durable, and has interval functions to fit any workout.",
+                "image": "/src/img/products/skiingTrainerStand.png",
+                "details": [
+                    "Functions include time, speed, distance, calories, watt, interval, and RPM", 
+                    "Dimensions: 600x1300x2400mm", 
+                    "Requires batteries",
+                    "10 Resistance levels",
+                    "Multi window LED display",
+                    "T1 year warranty",
+                    "40kg in weight"
+                ]
+            },
+            "keywords": ["all","*","lower body","fans","machine","upper body","black yellow","display","1 year warranty","40kg","batteries","time speed distance calories watt interval rpm"],
+            "review": {
+                "user": "Kim",
+                "title": "'",
+                "main": "Extremely efficient service. The dumbbells were delivered the day after I ordered them. I would definitely buy from them again."
+            }
+
+        },
+
+        "stairmaster-8-series-gauntlet-w-lcd": {
+            "product": {
+                "name": "Stairmaster 8 Series Gauntlet W/LCD",
+                "min": "stairmaster-8-series-gauntlet-w-lcd",
+                "price": "€5250.00",
+                "desc": "Stairmaster is one of the leading brands in cardio equipment on the market. The Stairmaster 8 Series Gauntlet W/LCD is the perfect option for improving aerobic fitness while strengthening the lower body. This machine features a deeper, wider step surface with a durable construction.",
+                "image": "/src/img/products/stairMaster.png",
+                "details": [
+                    "Powder coated steel frame", 
+                    "Dimensions: 34x58x89inc", 
+                    "USB charging port",
+                    "Multiple cup and accessory holders",
+                    "Personal cooling fans",
+                    "LCD display",
+                    "20kg in weight"
+                ]
+            },
+            "keywords": ["all","*","stairmaster","stairs","lower body","black","machine","move moving","steel","usb","display","fans"],
+            "review": {
+                "user": "",
+                "title": "",
+                "main": "<i>No reviews</i>"
+            }
+        }
+    }
+}
